@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmohamoud" alt="mohamedmohamoud" /></a> </p>
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **mfrag228@gmail.com**
+mfrag228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
