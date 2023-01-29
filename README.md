@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mohamed farag</h1>
-<h3 align="center">alexandria frontend developer from egypt</h3>
+<h1 align="center">Hi , I'm mohamed farag</h1>
+<h3 align="center"> frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohamoud&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohamoud" /> </p>
 
