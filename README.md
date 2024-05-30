@@ -1,7 +1,7 @@
 ### Hi there 👋, mohamed farraj
-I am learning more and more, improving my skills and gaining experience, so after graduating this year, I tried to search many paths until I chose the front end / UI path to be a professional in it. I've created a lot of projects with JS/HTML5/CSS/JQuery/Bootstrap/React.Js/APIs and I'm still learning and training to be better.
+I am learning more and more, improving my skills and gaining experience, so after graduating this year, I tried to search many paths until I chose the front end / UI path to be a professional in it. I've created a lot of projects with JS/HTML5/CSS/JQuery/Bootstrap/React.Js/APIs/typescript and I'm still learning and training to be better.
 
-Skills: Html/css/ javascript/jquery/React/Apls/ typescript/git,github
+ 
 
 - 🔭 I’m currently working on finding from egy 
 - 👯 I’m looking to collaborate on In better projects 
