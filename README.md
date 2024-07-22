@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed farraj</h1>
+<h1 align="center">Hi <img src="wired-flat-1331-repository.gif", I'm Mohamed farraj</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 <h3 align="center">🔭 I’m currently working on finding from egy</h3>
 
