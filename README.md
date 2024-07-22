@@ -1,14 +1,4 @@
-<h1 align="center">Hi
-
-<lord-icon>
-    src="https://cdn.lordicon.com/leqtedlh.json"
-    trigger="hover"
-    stroke="light"
-    state="hover-pinch"
-    colors="primary:#3080e8,secondary:#b4b4b4"
-    style="width:250px;height:250px">
-</lord-icon>
-, I'm Mohamed farraj</h1>
+<h1 align="center">Hi, I'm Mohamed farraj</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 <h3 align="center">🔭 I’m currently working on finding from egy</h3>
 
