@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed farraj</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
-<h3 align="center">💀 I’m currently working on Dubi</h3>
+<h3 align="center">💀 I’m currently working on Dubia</h3>
 
 
 
