@@ -1,6 +1,6 @@
-<div class="i-line-md:cloud-alt-braces-loop w-24px h-24px" style="color: #d8caca;"></div>
 
-<h1 align="center">Hi, I'm Mohamed farraj</h1> 
+<h1 align="center">Hi, I'm Mohamed farraj</h1> <div class="i-line-md:cloud-alt-braces-loop w-24px h-24px" style="color: #d8caca;"></div>
+
 <h3 align="center">A passionate frontend developer from egypt</h3>
 <h3 align="center">💀 I’m currently working in Dubia</h3>
 
