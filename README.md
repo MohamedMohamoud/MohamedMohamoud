@@ -3,6 +3,17 @@
 
 <h3 align="center">A passionate frontend developer from egypt</h3>
 <h3 align="center">💀 I’m currently working in Dubia</h3>
+<div align="left">
+</div>
+
+
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+
+
 
 
 # 💻 Tech Stack:
