@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mohamed farraj</h1> <div class="i-line-md:cloud-alt-braces-loop w-24px h-24px" style="color: #d8caca;"></div>
+<h1 align="center">Hi, I'm Mohamed farraj</h1> ![image](https://github.com/user-attachments/assets/24823899-1782-4487-8064-46797eb769b5)
 
 <h3 align="center">A passionate frontend developer from egypt</h3>
 <h3 align="center">💀 I’m currently working in Dubia</h3>
