@@ -4,7 +4,7 @@
 
 
 <h3 align="center">A passionate frontend developer from egypt</h3>
-<h3 align="center">💀 I’m currently working in Dubia</h3>
+<h3 align="center"> I’m currently working in Dubia</h3>
 <div align="left">
 </div>
 
