@@ -3,7 +3,9 @@
 </h1>
 
 
-<h3 align="center">A passionate frontend developer from egypt</h3>
+<h3 align="center">Front-End Developer with over +4 years of hands-on experience in web
+development, proficient in HTML, CSS ,JavaScript, and modern
+frameworks such as React. Adept at creating responsive</h3>
 
 <div align="left">
 </div>
